@@ -1,6 +1,6 @@
-✝️ JESUS ABOVE ALL
-💪 I can do all things through Christ who strengthens me
-📖 Philippians 4:13 🙏🔥
+✝️ JESUS ABOVE ALL<br>
+💪 I can do all things through Christ who strengthens me<br>
+📖 Philippians 4:13 🙏🔥<br>
 # 💫 About Me:
 <br><br>I’m an  AI/ML Engineer and Full-Stack Developer  who enjoys building intelligent systems from data to deployment.<br><br>I work on:<br><br>* 🤖 **AI & Machine Learning applications**<br>* 🧠 **LLM-powered tools and chatbots**<br>* 🌐 **Full-stack web platforms**<br>* 📊 **Data-driven systems and dashboards**<br><br>I like turning complex problems into  practical AI solutions and scalable products  <br>
 
